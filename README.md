@@ -23,7 +23,7 @@
 ### 👩‍💻 About Me 
 - 💬 Ask me about -> HTML, CSS, JavaScript, UX UI Design or anything related to Frontend.
 - 📫 How to reach me -> **esmeisytarina@gmail.com**
-- 🌱 I’m currently learning -> React.js - I'm also coursing the Oracle Next Education Program with the FrontEnd path.
+- 🌱 I’m currently learning -> React.js - I'm also coursing the Oracle Next Education Program in the FrontEnd path.
 - ⚡ Fun fact -> I tend to be I'm pretty funny when I have a safe space with people.
 
 <h3> Languages and Tools: </h3>
