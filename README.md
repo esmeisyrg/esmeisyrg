@@ -1,7 +1,7 @@
  <div id="header" align="center">
         <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
         <h1 align="center"> Hi, I'm Esmeisy Ramirez</h1>
-        <h3 align="center">A passionate software developvemt student from Dominican Republic. I'm really interested in Frontend skills and learning anything related to programming. </h3>           
+        <h3 align="center">A passionate Frontend Developer from Dominican Republic. I'm currentyly studying at ITLA. </h3>           
     </div>
 
  <div id="badges" align="center">
