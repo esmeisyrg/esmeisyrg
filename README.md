@@ -20,7 +20,6 @@
 </div>
 
 ### 👩‍💻 About Me 
-- 👩🏻‍🚀 Portfolio -> https://esmeisy.dev
 - 💬 Ask me about -> HTML, CSS, JavaScript, UX UI Design or anything related to Frontend.
 - 📫 How to reach me -> **esmeisytarina@gmail.com**
 - 🌱 I’m currently learning -> React.js // I'm also enrolled in the Oracle Next Education Program, specializing in the Frontend path.
