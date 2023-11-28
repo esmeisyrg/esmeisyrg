@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"
             alt="LinkedIn Badge" />
     </a>
-     <a href="mailto:esmeisytarina@gmail.com" style="animation: blink 2s infinite;">
+     <a href="mailto:esmeisyrg@gmail.com" style="animation: blink 2s infinite;">
         <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"
             alt="Gmail Badge" />
     </a>
@@ -21,7 +21,7 @@
 
 ### 👩‍💻 About Me 
 - 💬 Ask me about -> HTML, CSS, JavaScript, UX UI Design or anything related to Frontend.
-- 📫 How to reach me -> **esmeisytarina@gmail.com**
+- 📫 How to reach me -> **esmeisyrg@gmail.com**
 - 🌱 I’m currently learning ->Some other frontend skills, Laravel and AI.
 - ⚡ Fun fact -> I tend to be pretty funny when I gain trust with people.
 
