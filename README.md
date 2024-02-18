@@ -1,7 +1,7 @@
  <div id="header" align="center">
         <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
         <h1 align="center"> Hi, I'm Esmeisy Ramírez</h1>
-        <h3 align="center">A passionate Frontend Developer from the Dominican Republic, currently studying at ITLA. I'm dedicated to creating user-friendly web experiences. I stay updated with the latest web trends; always excited to contribute my skills to innovative projects. </h3>           
+        <h3 align="center">A passionate Frontend Developer from the Dominican Republic that studied at ITLA. I'm dedicated to creating user-friendly web experiences and functionable software projects. I count with a substantial amount of professional experience, collaborating on various software development projects; I stay updated with the latest web and mobile trends; always excited to contribute my skills to innovative projects. </h3>           
     </div>
 
  <div id="badges" align="center">
