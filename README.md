@@ -1,7 +1,7 @@
  <div id="header" align="center">
         <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
         <h1 align="center"> Hi, I'm Esmeisy Ramírez</h1>
-        <h3 align="center">Passionate Frontend Developer with profit experience in business and personal software projects. Dedicated to crafting user-friendly web experiences. Staying abreast of the latest trends and eager to contribute to innovative ideas.</h3>           
+        <h3 align="center">Passionate Frontend Developer and UX/UI Designer with profit experience in business and personal software projects. Dedicated to crafting user-friendly web experiences. Staying abreast of the latest trends and eager to contribute to innovative ideas.</h3>           
     </div>
 
  <div id="badges" align="center">
