@@ -22,7 +22,7 @@
 ### 👩‍💻 About Me 
 - 💬 Ask me about -> React, JavaScript, UX UI Design or anything related to Frontend.
 - 📫 How to reach me -> **esmeisyrg@gmail.com**
-- 🌱 I’m currently learning -> Angular and Blazor.
+- 🌱 I’m currently learning -> Blazor.
 - ⚡ Fun fact -> I tend to be pretty funny when I gain trust with people.
 
 <h3> Languages and Tools: </h3>
