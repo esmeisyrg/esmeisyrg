@@ -13,10 +13,10 @@
         <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"
             alt="Gmail Badge" />
     </a>
-    <a href="https://twitter.com/esmeisyrg" target="_blank">
+<!--     <a href="https://twitter.com/esmeisyrg" target="_blank">
       <img src="https://img.shields.io/twitter/follow/esmeisyrg?label=Follow&style=for-the-badge&logo=twitter"
           alt="Twitter Badge" />
-    </a>
+    </a> -->
 </div>
 
 ### 👩‍💻 About Me 
