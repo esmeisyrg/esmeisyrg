@@ -20,7 +20,7 @@
 </div>
 
 ### 👩‍💻 About Me 
-- 💬 Ask me about -> React, JavaScript, UX UI Design or anything related to Frontend.
+- 💬 Ask me about -> Swift, React, JavaScript, UX UI Design or anything related to Frontend.
 - 📫 How to reach me -> **esmeisyrg@gmail.com**
 - 🌱 I’m currently learning -> .Net 
 - ⚡ Fun fact -> I tend to be pretty funny when I gain trust with people.
