@@ -27,7 +27,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<table align="center">
+<table">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40"/></td>
