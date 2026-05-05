@@ -25,9 +25,9 @@
 - 🌱 I’m currently learning -> .Net and Quarkus.
 - ⚡ Fun fact -> I tend to be pretty funny when I gain trust with people.
 
-<h3 align="center">Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
 
-<table>
+<table align="center">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40"/></td>
