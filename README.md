@@ -5,7 +5,7 @@
     </div>
 
  <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/esmeisy-ramirez" target="_blank" style="animation: blink 2s infinite;">
+    <a href="https://www.linkedin.com/in/esmeisy-ramirez" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"
             alt="LinkedIn Badge" />
     </a>
